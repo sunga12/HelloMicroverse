@@ -27,9 +27,9 @@
 - [📝 License](#license)
 
 
-# 📖 [Hello_Microverse] <a name="about-project"></a>
+# 📖 Hello Microverse <a name="about-project"></a>
 
-**[Hello_Microverse]** is my first project in Microverse, done in Block 1 of Module 1.
+**Hello Microverse** is my first project in Microverse, done in Block 1 of Module 1.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -52,9 +52,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Displays_Hello_Microverse!]**
-- **[Backgroud_Colour_is_Cyan]**
-- **[Text_Size_is_h1]**
+- **Displays Hello Microverse!**
+- **Backgroud Colour is Cyan**
+- **Text Size is h1**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -145,9 +145,9 @@ You can deploy this project using:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[More_Descriptive_Text_to_be_added]**
-- [ ] **[Images_and_Videos_to_be_added]**
-- [ ] **[About_Me_section]**
+- [ ] **[More Descriptive Text to be added]**
+- [ ] **[Images and Videos to be added]**
+- [ ] **[About Me section]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -166,7 +166,7 @@ I would like to thank Microverse for this opportunity to become a software devel
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./LgICENSE) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
