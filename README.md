@@ -14,9 +14,16 @@
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 
@@ -26,7 +33,7 @@
 
 ## 🛠 Built With <a name="built-with"></a>
 
-### Tech Stack <a name="tech-stack"></a>
+### HTML & CSS <a name="tech-stack"></a>
 
 <details>
   <summary>Markup Language</summary>
@@ -45,7 +52,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Displays_Hello_Microverse_In_h1_Size]**
+- **[Displays_Hello_Microverse!]**
+- **[Backgroud_Colour_is_Cyan]**
+- **[Text_Size_is_h1]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -60,11 +69,68 @@
 
 To get a local copy up and running, follow these steps: Clone Github Repo using SSH, HTTP, or via Github Desktop.
 
+
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> Describe how a new developer could make use of your project.
+
+To get a local copy up and running, follow these steps.
+
 ### Prerequisites
 
-In order to run this project you need: Microsoft Visual Studio Code, A Github account, Internet Connection.
+In order to run this project you need: 
+
+Microsoft Visual Studio Code
+A Github account
+Internet Connection.
+
+```sh
+  cd your-project
+  npm init -y  
+  npm install --save-dev hint@7.x
+
+  npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
+
+  npx stylelint "**/*.{css,scss}"
+```
+
+### Setup
+
+Clone this repository to your desired folder:
+
+```sh
+  cd your-folder
+  git clone git@github.com:sunga12/HelloMicroverse.git
+```
+
+### Install
+
+Install this project with:
+
+
+### Usage
+
+To run the project, execute the following command:
+
+
+### Run tests
+
+To run tests, run the following command:
+
+```sh
+  npx hint .
+
+  npx stylelint "**/*.{css,scss}"
+```
+
+### Deployment
+
+You can deploy this project using:
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 ## 👥 Author <a name="authors"></a>
@@ -72,6 +138,16 @@ In order to run this project you need: Microsoft Visual Studio Code, A Github ac
 - GitHub: [@sunga12](https://github.com/sunga12)
 - Twitter: [@OfficialAseT](https://twitter.com/OfficialAseT)
 - LinkedIn: [Sungabanja Thawethe](https://www.linkedin.com/in/sungabanja-thawethe-b3419b142/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[More_Descriptive_Text_to_be_added]**
+- [ ] **[Images_and_Videos_to_be_added]**
+- [ ] **[About_Me_section]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,6 +168,5 @@ I would like to thank Microverse for this opportunity to become a software devel
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
