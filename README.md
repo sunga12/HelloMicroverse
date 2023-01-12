@@ -23,7 +23,6 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 
@@ -166,7 +165,7 @@ I would like to thank Microverse for this opportunity to become a software devel
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LgICENSE) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
