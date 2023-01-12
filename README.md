@@ -33,7 +33,7 @@
 
 ## 🛠 Built With <a name="built-with"></a>
 
-### HTML & CSS <a name="tech-stack"></a>
+### HTML-Used for Text & CSS-Used for styling<a name="tech-stack"></a>
 
 <details>
   <summary>Markup Language</summary>
